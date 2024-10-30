@@ -1,0 +1,11 @@
+.chatchamp_plugin {
+    clear: both;
+}
+
+.chatchamp_plugin-header {
+    margin-top: 10px;
+}
+
+.chatchamp-woocommerce-hiddenfield {
+    display: none;
+}

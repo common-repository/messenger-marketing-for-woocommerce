@@ -1,0 +1,1 @@
+tail -f /Applications/MAMP/htdocs/wordpress/wp-content/debug.log
